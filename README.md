@@ -83,3 +83,5 @@ Upon completing this project, you can expect the following benefits:
 ----
 **Project Motivation**
 - Created this project , since Replit has recently shutdown an alternative to Replit is GitHub CodeSpaces. Contributions are welcomed.
+
+*NB* : This template is adopted from  [Replit Postman AI Text Summarizer Template](https://replit.com/@postman/AI-Text-Summarizer-App-Starter-Template) , due to efforts of enabling using alternatives such as GitHub Codespaces
